@@ -1,4 +1,3 @@
-// Package queue provides a generic FIFO (First In, First Out) queue implementation.
 package queue
 
 import (
